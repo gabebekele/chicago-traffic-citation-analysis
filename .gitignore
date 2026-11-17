@@ -1,0 +1,17 @@
+# Data files
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Credentials
+.env
+
+# Editor settings
+.vscode/
+
+# MySQL Workbench backups
+*.mwb.bak
